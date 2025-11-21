@@ -47,7 +47,7 @@ parking_detection_project/
 │
 ├── models/
 │   ├── emptyparkingspotdetectionmodel.h5  # Trained CNN model
-│   └── yolov8n.pt          # YOLOv8 model (if used)
+│   └── yolov8n.pt          # YOLOv8 model 
 │
 ├── outputs/
 │   ├── output_detected_parking.png        # Visual output with detections
